@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google</title>
+     <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section>
+      <!--the tool bar-->
+      <header>
+        <ul>
+          <li><a href= "#">Gmail</a></li>
+          <li><a href= "#">Images</a></li>
+          <li><a href= "#"><img src="https://www.clipartmax.com/png/full/108-1081569_dots-clipart-nine-9-dot-pattern.png"
+          width="17"
+          height="17"></a></li>
+          <li><a href= "#"><img src="https://www.pngfind.com/pngs/m/34-349693_circled-user-icon-transparent-background-username-icon-hd.png"
+          width="24"
+          height="24"></a></li>
+        </ul>
+      </header>
+      <!--middle of the page-->
+      <!--had trouble centering them-->
+      <div class="main">
+        <img src="https://s3.amazonaws.com/images.seroundtable.com/google-seasonal-holidays-1638104749.gif"
+        width="500"
+        height="200"
+        class="center">
+        <div class="searchBox">
+         <input type="text" class="search">
+         <div class="icons">
+           <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magnifying-glass-1976105_640.png/480px-Magnifying-glass-1976105_640.png"
+           width="30"></div>
+          <div><img src="https://external-preview.redd.it/evQ-BWao9aAn2pzUVfPOZNbCcQgRat0j9LI-aTAFJt4.jpg?auto=webp&s=87ed629392ce1cb8f03faf22b7ba2d546737a823"
+           width="34"></div>
+        </div>
+        </div>
+        <div class="buttons">
+          <button>Google Search</button>
+          <button>I'm Feeling Lucky</button>         
+        </div>
+        <ul class="languages">
+       <li>Google Offered in:</li>
+       <li><a href="#">Français</a></li> 
+       </ul>
+       <!--bottom of the page-->
+        <div class="footer">
+          <div class="row row1">
+            <p class="country">Canada</p>
+          </div>
+         <div class="row row2">
+            <ul>
+              <li><a href="#">Advertising</a></li>
+                <li><a href="#">Business</a></li>
+                  <li><a href="#">About</a></li>
+                    <li><a href="#">How Search Works</a></li>
+            </ul>
+            <ul>
+              <li><a href="#">Privacy</a></li>
+                <li><a href="#">Terms</a></li>
+                  <li><a href="#">Settings</a></li>
+            </ul>        
+          </div> 
+
+    </section>
+  </body>
+</html>
